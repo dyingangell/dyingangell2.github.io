@@ -550,15 +550,15 @@ hr {
 
 @media (max-width: 500px){
 	.saits__title-down{
-		left: 132px;
+		left: 116px;
     	top: 35px;
     	font-size: 13px;
     	line-height: 16px;
 	}
 	.saits__title-text {
-    font-size: 17px;
+    font-size: 14px;
     line-height: 33px;
- } 
+}
  	.header__menu {
  		display: none;
  	}
